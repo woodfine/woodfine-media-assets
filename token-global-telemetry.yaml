@@ -1,0 +1,3 @@
+# GLOBAL TOKENS: Woodfine Telemetry Infrastructure
+telemetry:
+  woodfine_endpoint_url: "https://telemetry.woodfinegroup.com:8082/telemetry-endpoint"
